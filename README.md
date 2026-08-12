@@ -1,34 +1,59 @@
-# Hi, I'm Dipanshu 👋
+<div align="center">
 
-### AI/ML Enthusiast · Computer Science Undergraduate
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=200&section=header&text=Dipanshu%20Parashar&fontSize=58&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=AI%20%2F%20ML%20Enthusiast%20%C2%B7%20Computer%20Science%20Undergraduate&descSize=16&descAlign=50&descAlignY=68&descFontColor=94a3b8" width="100%"/>
 
-I enjoy building **intelligent, practical solutions** and turning ideas into real-world projects.
+<br/>
 
-Currently exploring **AI/ML, Generative AI, Data Structures & Algorithms, and Software Development.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square\&logo=linkedin\&logoColor=64748b)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square\&logo=github\&logoColor=64748b)](https://github.com/Dipanshu93198)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square\&logo=gmail\&logoColor=64748b)](mailto:dipanshupandit89@gmail.com)
 
----
+</div>
 
-### 🧠 What I Work With
+<br/>
+
+```java
+const dipanshu = {
+    role      : "AI / ML Enthusiast",
+    education : "B.Tech CSE — AI/ML",
+    university: "GLA University, Mathura",
+
+    building  : [
+        "AI-powered applications",
+        "Machine Learning systems",
+        "Real-world software projects"
+    ],
+
+    languages : ["Java", "Python", "SQL"],
+    interests : ["AI/ML", "Generative AI", "DSA", "Software Development"],
+
+    mindset   : "Learn. Build. Improve."
+};
+```
+
+<br/>
+
+## 🧠 What I Work With
 
 `Java` · `Python` · `SQL` · `MongoDB` · `HTML` · `CSS`
 `Machine Learning` · `Generative AI` · `LLMs` · `Git/GitHub`
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 **FinSight** — AI-powered financial document analysis & credit appraisal platform
-🏆 2nd Place — BML Munjal University Hackathon
+🏆 **2nd Place — BML Munjal University Hackathon**
 
 **EquiDerm** — AI-powered dermatology assistant focused on equitable diagnosis
-🏆 6th Place — Deviathon · 280+ Teams
+🏆 **6th Place — Deviathon · 280+ Teams**
 
 **DRS** — Disaster Response & Coordination System with AI-powered decision assistance
-🏆 1st Place — Manthon 2.0
+🏆 **1st Place — Manthon 2.0**
 
 ---
 
-### 📌 Currently
+## 📌 Currently
 
 * 🎓 B.Tech CSE (AI/ML)
 * 🤖 Exploring AI Agents & Generative AI
@@ -37,12 +62,14 @@ Currently exploring **AI/ML, Generative AI, Data Structures & Algorithms, and So
 
 ---
 
-### 💭
+## 💭
 
 > *“Learning today, building tomorrow.”*
 
 ---
 
-<p align="center">
-  <sub>Always learning. Always building.</sub>
-</p>
+<div align="center">
+
+<sub>Always learning. Always building.</sub>
+
+</div>
