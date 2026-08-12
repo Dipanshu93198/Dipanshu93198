@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square\&logo=linkedin\&logoColor=64748b)](linkedin.com/in/dipanshu-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square\&logo=linkedin\&logoColor=64748b)](https://www.linkedin.com/in/dipanshu-ai/)
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square\&logo=github\&logoColor=64748b)](https://github.com/Dipanshu93198)
 [![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square\&logo=gmail\&logoColor=64748b)](mailto:dipanshupandit89@gmail.com)
 
